@@ -2,13 +2,12 @@
   "name": "mesto",
   "description": "My project in RTU MIREA.",
   "version": "1.0.0",
-  "author": " <nikitafon2005@gmail.com>",
+  "author": " <pavel.sysoev2005@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Relax1205/Sixth_project.Server.git"
+    "url": "git+https://github.com/Ortars1/Sprint6"
   },
-  "homepage": "https://github.com/AstreyaJulia/mesto#readme",
   "scripts": {
     "build": "rimraf dist && webpack --mode production",
     "dev": "webpack serve",
